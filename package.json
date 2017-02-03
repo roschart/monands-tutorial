@@ -1,0 +1,27 @@
+{
+  "name": "monands-tutorial",
+  "version": "1.0.0",
+  "description": "This is an article to help to teach monads, in javacript, to my coworkers.",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roschart/monands-tutorial.git"
+  },
+  "keywords": [
+    "monads"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roschart/monands-tutorial/issues"
+  },
+  "homepage": "https://github.com/roschart/monands-tutorial#readme",
+  "dependencies": {
+    "data.task": "^3.1.1",
+    "flyd": "^0.2.4",
+    "ramda": "^0.23.0"
+  }
+}
